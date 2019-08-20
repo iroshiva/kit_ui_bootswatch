@@ -70,6 +70,11 @@
   width: 40% !important;
 }
 
+.info-event{
+  height: 438.75px;
+}
+
+
 
  /* KIT UI CSS */
 @import url("https://fonts.googleapis.com/css?family=Lato:400,700,400italic");
